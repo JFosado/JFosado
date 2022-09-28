@@ -3,7 +3,7 @@
 
 <p align="center"> <a href="https://twitter.com/josefosado7" target="blank"><img src="https://img.shields.io/twitter/follow/josefosado7?logo=twitter&style=for-the-badge" alt="josefosado7" /></a> </p>
 
-- ⚡About Me **I am a person who is constantly learning about new technologies, so I am looking for a company that will allow me to demonstrate my skills and improve them with a project. Passionate about technology and programming.**
+- ⚡About Me   **I am a person who is constantly learning about new technologies, so I am looking for a company that will allow me to demonstrate my skills and improve them with a project. Passionate about technology and programming.**
 
 - 🌱 I’m currently learning **Angular and nodejs**
 
