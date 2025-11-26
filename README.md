@@ -6,7 +6,6 @@
 
 - ⚡About Me **I am a person who is constantly learning about new technologies, so I am looking for a company that will allow me to demonstrate my skills and improve them with a project. Passionate about technology and programming.**
 
-- 🌱 I’m currently learning **Vue.js and SASS**
 
 - 📫 How to reach me **jfosadoanimas@gmail.com**
 
